@@ -7,3 +7,7 @@
 ## 原工程 · 20 级试玩
 
 [打开 20 级试玩](https://qizi19990909-lgtm.github.io/xiuxian-squad-play/level20/) · [改动说明](level20/README.md) · [版本记录](level20/release.json)
+
+## 1～20 级成长试玩
+
+[打开最新成长试玩](https://qizi19990909-lgtm.github.io/xiuxian-squad-play/progression/) · [改动说明](progression/README.md) · [版本记录](progression/release.json)
