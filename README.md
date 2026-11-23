@@ -1,4 +1,5 @@
-# 修仙小队 · 网页试玩样品
-子七工作室占位美术样品，仅含网页导出文件。试玩：https://qizi19990909-lgtm.github.io/xiuxian-squad-play/
+# 寻王 · 网页试玩
 
-当前分支为开局选择闯关或无尽模式（对应源码 feat/mode-select）。合并前请勿推送到 main。iPhone Safari 可打开；竖屏四周可能有黑边。
+[打开试玩](https://qizi19990909-lgtm.github.io/xiuxian-squad-play/)，选择闯关或无尽模式。点击或拖动场地移动，角色接近敌人时会自动攻击。
+
+当前构建为 `v0.1.0-candidate`，从 Godot 4.7.2 导出。[查看版本记录](release.json) · [查看游戏草案](https://github.com/qizi19990909-lgtm/-/tree/main/%E5%AF%BB%E7%8E%8B%20%E6%B8%B8%E6%88%8F%E8%8D%89%E6%A1%88%E8%AE%BE%E5%AE%9A)
